@@ -301,9 +301,12 @@ text-decoration: none;
     .right{
         width: 100%;
     }
-    p.text{
-        padding: 0px 20px 0px 20px;
+    .content{
+        padding:  0px 10px 0px 10px;
     }
+    /* p.text{
+        padding: 0px 10px 0px 10px;
+    } */
     .display-re{
         display: block;
         max-width: 100%;
